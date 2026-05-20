@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Arsen 👋
 
-<!--
-**1topgg/1topgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year Software Engineering student at TNTU. I am highly interested in backend development, algorithms, and building application architecture.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 📄 **Resume:** [View my Resume (CV)](https://github.com/1topgg/Arsen-HOLOVENKO-SE201-2025-2026/blob/main/Lab-4/Resume-Arsen-Holovenko.md)
+- 🎓 Pursuing a degree in **Software Engineering**.
+- 🔭 Currently working on a client-server application: **Chat Platform MVP**.
+- 🌱 Actively deepening my knowledge in Data Structures, OOP, and Network Interaction.
+- ⚡ Hobbies: interested in automotive and motorcycle technical maintenance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Programming Languages:** Python, C++
+- **Tools & Technologies:** Git, GitHub, Docker
+- **Architecture:** Client-Server Model, SOLID (SRP)
+
+### 📈 GitHub Stats
+![Arsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=1topgg&show_icons=true&theme=radium)
