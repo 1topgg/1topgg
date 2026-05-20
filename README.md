@@ -3,7 +3,7 @@
 I am a first-year Software Engineering student at TNTU. I am highly interested in backend development, algorithms, and building application architecture.
 
 ### 🚀 About Me
-- 📄 **Resume:** [View my Resume (CV)](https://github.com/1topgg/Arsen-HOLOVENKO-SE201-2025-2026/blob/main/Lab-4/Resume-Arsen-Holovenko.md)
+- 📄 **Resume:** [View my Resume (CV)](https://github.com/TNTU-F2-Software-Engineering/Arsen-HOLOVENKO-SE201-2025-2026/blob/7-lab-4-arsen-holovenko/Lab-4/Resume-Arsen-Holovenko.md)
 - 🎓 Pursuing a degree in **Software Engineering**.
 - 🔭 Currently working on a client-server application: **Chat Platform MVP**.
 - 🌱 Actively deepening my knowledge in Data Structures, OOP, and Network Interaction.
