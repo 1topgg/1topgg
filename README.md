@@ -15,4 +15,4 @@ I am a first-year Software Engineering student at TNTU. I am highly interested i
 - **Architecture:** Client-Server Model, SOLID (SRP)
 
 ### 📈 GitHub Stats
-![Arsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=1topgg&show_icons=true&theme=radium)
+![Arsen's GitHub Streak](https://streak-stats.demolab.com/?user=1topgg&theme=radium&hide_border=true)
